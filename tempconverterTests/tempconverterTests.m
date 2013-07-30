@@ -3,7 +3,6 @@
 //  tempconverterTests
 //
 //  Created by Alvaro  Morales on 7/29/13.
-//  Copyright (c) 2013 Yahoo!. All rights reserved.
 //
 
 #import "tempconverterTests.h"
